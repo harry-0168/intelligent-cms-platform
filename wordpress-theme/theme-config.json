@@ -1,0 +1,34 @@
+{
+  "brand": {
+    "name": "La Maison Bakery",
+    "tagline": "Handcrafted with love, baked fresh every morning.",
+    "tone": "Warm, sensory, and inviting. Use rich descriptive language about flavours, textures and aromas. Approachable but premium — never generic or corporate. Second-person ('you', 'your') to feel personal.",
+    "audience": "Food-loving locals aged 25-55 who care about quality, provenance, and artisan craft. They appreciate stories behind their food and are willing to pay more for something genuinely special.",
+    "colors": {
+      "primary": "#C8854A",
+      "secondary": "#2C1810",
+      "accent": "#D4A853"
+    },
+    "typography": {
+      "heading_font": "Playfair Display",
+      "body_font": "Lato"
+    }
+  },
+  "content_rules": {
+    "page_structure": ["hero section with a compelling headline and one strong CTA", "3 content sections each with an h2 heading", "closing call-to-action section"],
+    "word_count_target": 550,
+    "reading_level": "Grade 9",
+    "always_include": ["at least one sensory detail (smell, taste or texture)", "a clear CTA button linking to the menu or ordering", "the bakery name La Maison Bakery at least once"],
+    "avoid": ["passive voice", "generic phrases like 'high quality' or 'wide variety'", "corporate jargon", "filler phrases like 'in conclusion' or 'it goes without saying'"]
+  },
+  "image_style": {
+    "hero_image_style": "Warm, moody food photography. Golden hour lighting. Rustic wooden surfaces. Fresh-baked bread, pastries, or cakes as the focus. Shallow depth of field. Soft bokeh background. No text or logos in the image. Warm amber and brown tones.",
+    "aspect_ratio": "16:9",
+    "size": "1792x1024"
+  },
+  "seo": {
+    "title_max_chars": 60,
+    "meta_description_max_chars": 155,
+    "always_include_in_meta": "La Maison Bakery"
+  }
+}
