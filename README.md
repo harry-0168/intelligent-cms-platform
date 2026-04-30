@@ -2,6 +2,9 @@
 
 A WordPress + FastAPI + React system that reads a brand theme config, generates brand-consistent page copy and hero imagery with AI, and publishes directly to WordPress.
 
+## Demo
+[![Video](https://youtube.com)](https://www.youtube.com/watch?v=u0WK5k66Q-o)
+
 ## Project Structure
 
 - `wordpress-theme/` custom WordPress theme and brand rules
